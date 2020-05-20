@@ -1,0 +1,7 @@
+-- CREATE TABLE cars(
+--  id INT NOT NULL AUTO_INCREMENT,
+--  make VARCHAR(255) NOT NULL,
+--  model VARCHAR(255) NOT NULL,
+--  userId VARCHAR(255) NOT NULL 
+--  PRIMARY KEY (id) 
+-- )
